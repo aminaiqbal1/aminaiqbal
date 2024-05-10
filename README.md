@@ -1,3 +1,4 @@
+![logo](https://github.com/aminaiqbal1/aminaiqbal/blob/main/Untitled%20design.png)
 
 
 <h1 align="center">Hi 👋, I'm Amina Iqbal</h1>
