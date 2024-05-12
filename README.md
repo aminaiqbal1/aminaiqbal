@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Amina Iqbal</h1>
-<h3 align="center">A passionate Python programmer, Data analysis, and Machine learning engineer from Pakistan</h3>
+<h3 align="center"> I am Machine learning engineer from Pakistan</h3>
+<img align= "right" alt = "coding" width= "400"src= "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminaiqbal1&label=Profile%20views&color=0e75b6&style=flat" alt="aminaiqbal1" /> </p>
 
